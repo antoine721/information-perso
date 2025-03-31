@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=antoine721&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=antoine721" alt="Trophies" />
-  </a>
-</p>
-
 ---
 
 ### 🌱 Current Learning:
@@ -59,11 +53,8 @@ I'm currently diving deep into **React** and mastering modern front-end framewor
 ### 🔗 Connect with Me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/antoine721/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/LinkedIn_icon.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://twitter.com/antoine721" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_logo_2012.svg" alt="Twitter" width="40" height="40"/>
+  <a href="mailto:antoine.brachet@edu.devinci.fr">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Email_icon.svg" alt="Email" width="40" height="40"/>
   </a>
 </p>
 
